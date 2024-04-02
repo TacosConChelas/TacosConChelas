@@ -30,9 +30,18 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/> 
   
 </div>
-## IDEs
-- IntelliJ Idea
-- VSC
+
+ ## IDEs
+<div>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/> 
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/>
+  
+</div>
+
 
 ## Other tools
-
+<div>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/> 
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="70" height="35"/>
+  
+</div>
