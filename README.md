@@ -21,12 +21,15 @@ You can click the Preview link to take a look at your changes.
 ### Most used OS
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Win11" alt="Win11" width="55" height="55"/> 
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/pngwing.com.png" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/pngwing.com.png" title="Kali" alt="Kali" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
 </div>
 
 ### FEDORA lover ❤️
-
+<div>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/> 
+  
+</div>
 ## IDEs
 - IntelliJ Idea
 - VSC
