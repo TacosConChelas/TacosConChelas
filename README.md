@@ -11,10 +11,17 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me Could you send me a message to my instagram "Tacos_Con_Chelas" or "taquitos_con_chelas".
 
 ## Programming languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
+</div> 
 
 ## OS 
 
 ### Most used OS
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Win11" alt="Win11" width="55" height="55"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="KaliLinux" alt="KaliLinux" width="55" height="55"/> 
 
 ### Preferred OS
 
