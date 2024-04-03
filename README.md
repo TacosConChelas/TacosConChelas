@@ -46,6 +46,37 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
   <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="75" height="35"/>
-  
-  
+
+---
 </div>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TacosConChelas&theme=onedark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=600&type=png&fire=FF1000&ring=FF0000&background=000000&sideNums=FF0000&currStreakLabel=EBEBEB&currStreakNum=C5C5C5&dates=FFFFFF" alt="GitHub Streak" /></a>
+  
+</p>
+
+---
+
+<p>
+  <!--    https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=tru --->
+ 
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacosConChelas&size_weight=0.15&count_weight=0.5&layout=compact&theme=shadow_red">
+  
+</p>
+
+---
+
+## Favorite repositories
+<p>
+  <!--   https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true   --->
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV">
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript">
+  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=CursoPLATZI_JavaSE_OObjects">
+  
+</p>
+<!-- inspiración para las estadisticas: 
+https://github.com/anuraghazra/github-readme-stats
+https://streak-stats.demolab.com/demo/?user=TacosConChelas&theme=onedark&hide_border=true&border_radius=4.5&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=png&background-type=solid&properties=border&fire=%23FF1000&ring=%23FF0000&background=%23000000FF&sideNums=%23FF0000&currStreakLabel=%23EBEBEB&currStreakNum=%23C5C5C5&dates=%23A91414
+https://streak-stats.demolab.com/demo/
+--->
+
