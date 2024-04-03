@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ## About me
 
 <div>
-  <img align="left" src=".\Taco\images.jpg" title="JavaScript" alt="JavaScript" width="340" height="160"/> 
+  <img align="left" src=".\Taco\images.jpg" title="JavaScript" alt="JavaScript" width="335" height="160"/> 
   <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li>
   <li>👀 I'm interested in programming but I am still a beginner. In addition to being interested in Cybersecurity.</li>
   <li>🌱 I'm currently learning a little JS and Java.</li>
