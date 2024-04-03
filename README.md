@@ -63,16 +63,16 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
----
-
 ## Favorite repositories
-<p>
-  <!--   https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true   --->
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV">
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript">
-  <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=CursoPLATZI_JavaSE_OObjects">
+ <!--   https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true   --->
+<div align="center">
+  <p>
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV">
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript">
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=CursoPLATZI_JavaSE_OObjects">
+  </p>
   
-</p>
+</div>
 <!-- inspiración para las estadisticas: 
 https://github.com/anuraghazra/github-readme-stats
 https://streak-stats.demolab.com/demo/?user=TacosConChelas&theme=onedark&hide_border=true&border_radius=4.5&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=png&background-type=solid&properties=border&fire=%23FF1000&ring=%23FF0000&background=%23000000FF&sideNums=%23FF0000&currStreakLabel=%23EBEBEB&currStreakNum=%23C5C5C5&dates=%23A91414
