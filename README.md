@@ -1,17 +1,21 @@
 # TacosConChelas (Adriel)
-<img src=".\Taco\images.jpg" title="JavaScript" alt="JavaScript" width="300" height="150"/> 
 - I like to learn about new technologies, but I'm just a beginner learning
 <!---
 TacosConChelas/TacosConChelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1>Hola este es un texto de prueba </h1>
 
 ## About me
-- 👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".
-- 👀 I'm interested in programming but I am still a beginner. In addition to being interested in Cybersecurity.
-- 🌱 I'm currently learning a little JS and Java.
-- 💞️ I'm looking to collaborate on some game development or application development.
-- 📫 How to reach me you could send me a message to my instagram "Tacos_Con_Chelas".
+<img src=".\Taco\images.jpg" title="JavaScript" alt="JavaScript" width="300" height="150"/> 
+<div>
+  <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li>
+  <li>👀 I'm interested in programming but I am still a beginner. In addition to being interested in Cybersecurity.</li>
+  <li>🌱 I'm currently learning a little JS and Java.</li>
+  <li>💞️ I'm looking to collaborate on some game development or application development.</li>
+  <li>📫 How to reach me you could send me a message to my instagram "Tacos_Con_Chelas".</li>
+</div>
+
 
 ## Programming languages
 <div>
