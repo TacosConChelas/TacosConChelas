@@ -28,8 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ### FEDORA lover ❤️
 <div>
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/> 
-  
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/>
 </div>
 
  ## IDEs
@@ -56,11 +55,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<p>
+<p align="center">
   <!--    https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=tru --->
  
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacosConChelas&size_weight=0.15&count_weight=0.5&layout=compact&theme=shadow_red">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true">
+  <img width="360" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacosConChelas&size_weight=0.15&count_weight=0.5&layout=compact&theme=shadow_red">
   
 </p>
 
