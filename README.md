@@ -4,11 +4,11 @@
 TacosConChelas/TacosConChelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hola este es un texto de prueba </h1>
 
 ## About me
-<img src=".\Taco\images.jpg" title="JavaScript" alt="JavaScript" width="300" height="150"/> 
+
 <div>
+  <img align="left" src=".\Taco\images.jpg" title="JavaScript" alt="JavaScript" width="370" height="180"/> 
   <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li>
   <li>👀 I'm interested in programming but I am still a beginner. In addition to being interested in Cybersecurity.</li>
   <li>🌱 I'm currently learning a little JS and Java.</li>
