@@ -93,5 +93,6 @@ https://streak-stats.demolab.com/demo/?user=TacosConChelas&theme=onedark&hide_bo
 https://streak-stats.demolab.com/demo/
 https://desarrolloweb.com/articulos/600.php
 https://www.aulafacil.com/cursos/crear-paginas-web/html/enlazar-una-imagen-l19280
+https://www.remove.bg/es/upload
 --->
 
