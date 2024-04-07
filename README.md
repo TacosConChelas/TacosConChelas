@@ -1,6 +1,6 @@
 # TacosConChelas (Adriel)
 
-<img align="left" src=".\Taco\images.jpg" title="JavaScript" alt="Saludo" width="335" height="160"/>
+<img src="./Taco/saludo-removebg.png" alt="Saludo" width="300" height="160"/>
 - I like to learn about new technologies, but I'm just a beginner learning
 <!---
 TacosConChelas/TacosConChelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
