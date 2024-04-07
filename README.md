@@ -29,35 +29,34 @@ You can click the Preview link to take a look at your changes.
 ### Most used OS
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Win11" alt="Win11" width="55" height="55"/> 
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/pngwing.com.png" title="Kali" alt="Kali" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
+  <a title="Kali" href="https://www.kali.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/pngwing.com.png" title="Kali" alt="Kali" width="55" height="55"/></a>
+  <a title="Ubuntu" href="https://ubuntu.com/download"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/></a>
 </div>
 
 ### FEDORA lover ❤️
 <div>
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/>
+  <a title="Fedora" href="https://fedoraproject.org/es/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/></a>
 </div>
 
-## Others
+### Others
 <div>
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/>
+  <a title="Tails" href="https://tails.net/index.en.html"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/tails-logo-square-notagline.svg" title="Tails" alt="Tails" width="55" height="55"/></a>
+  <a title="Arch" href="https://archlinux.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/archlinux-icon.svg" title"Arch" alt="Arch" width="55" height="55"/></a>
 </div>
 
 
  ## IDEs
 <div>
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/> 
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/>
-  
+  <a title="IntelliJ-IDEA" href="https://www.jetbrains.com/es-es/idea/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/></a>
+  <a title="VisualStudioCode" href="https://code.visualstudio.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/></a>
 </div>
-
 
 ## Other tools
 <div>
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
-  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="75" height="35"/>
+  <a title="mysql" href="https://www.mysql.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/></a>
+  <a title="node" href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/></a>
+  <a title="docker" href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></a>
+  <a title="Git" href="https://git-scm.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="75" height="35"/></a>
 
 ---
 </div>
