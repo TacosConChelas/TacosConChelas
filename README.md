@@ -38,6 +38,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/>
 </div>
 
+## Others
+<div>
+  <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/>
+</div>
+
+
  ## IDEs
 <div>
   <img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/> 
