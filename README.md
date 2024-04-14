@@ -7,7 +7,7 @@ TacosConChelas/TacosConChelas is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./Taco/about_me.gif" width = 50px></picture> **About me**
 
 <div>
   <img align="left" src="./Taco/Perritos/images.jpg" title="JavaScript" alt="JavaScript" width="335" height="160"/> 
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
 </div> 
 
-## OS 
+## <picture><img src = "./Taco/OS.gif" width = 50px></picture> OS 
 
 ### Most used OS
 <div>
@@ -63,7 +63,9 @@ You can click the Preview link to take a look at your changes.
   <a title="docker" href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></a>
   <a title="Git" href="https://git-scm.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="75" height="35"/></a>
 
----
+
+## <picture> <img src = "./Taco/Statistics.gif" width = 50px>  </picture>  Github Stats
+
 </div>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TacosConChelas&theme=onedark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=600&type=png&fire=FF1000&ring=FF0000&background=000000&sideNums=FF0000&currStreakLabel=EBEBEB&currStreakNum=C5C5C5&dates=FFFFFF" alt="GitHub Streak" /></a>
