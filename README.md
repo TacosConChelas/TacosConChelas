@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <p>¡Click here!</p>
 <a title="MyInstagram" href="https://www.instagram.com/tacos_con_chelas/"><img src=".\Taco\Insta.png" alt="Los Tejos" width="35" height="35"/></a>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## Programming languages
