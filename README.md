@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## <picture><img src = "./Taco/about_me.gif" width = 50px></picture> **About me**
-
+<img src="https://img.shields.io/badge/Age-20-red" />
 <div>
   <img align="left" src="./Taco/Perritos/images.jpg" title="JavaScript" alt="JavaScript" width="335" height="160"/> 
   <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li>
