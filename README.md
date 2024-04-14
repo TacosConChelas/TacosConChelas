@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-## Programming languages
+## <picture><img src = "./Taco/CP_PS.gif" width = 50px></picture> Programming languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
- ## IDEs
+## <picture><img src = "./Taco/IDEs.gif" width = 50px></picture> IDEs
 <div>
   <a title="IntelliJ-IDEA" href="https://www.jetbrains.com/es-es/idea/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/></a>
   <a title="VisualStudioCode" href="https://code.visualstudio.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/></a>
