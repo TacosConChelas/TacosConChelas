@@ -90,6 +90,15 @@ You can click the Preview link to take a look at your changes.
   </p>
   
 </div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="./Taco/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+
 <!-- inspiración para las estadisticas: 
 https://github.com/anuraghazra/github-readme-stats
 https://streak-stats.demolab.com/demo/?user=TacosConChelas&theme=onedark&hide_border=true&border_radius=4.5&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=png&background-type=solid&properties=border&fire=%23FF1000&ring=%23FF0000&background=%23000000FF&sideNums=%23FF0000&currStreakLabel=%23EBEBEB&currStreakNum=%23C5C5C5&dates=%23A91414
