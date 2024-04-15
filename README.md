@@ -33,6 +33,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
 </div> 
 
+### Others
+<div>
+  <img src="./Taco/HTML.png" title="HTML" alt="HTML" width="55" height="55"/>
+  <img src="./Taco/CSS.png" title="CSS" alt="CSS" width="55" height="55"/> 
+</div>
+
 ## <picture><img src = "./Taco/OS.gif" width = 50px></picture> OS 
 
 ### Most used OS
