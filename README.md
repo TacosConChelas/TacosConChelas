@@ -65,10 +65,10 @@ You can click the Preview link to take a look at your changes.
   <a title="mysql" href="https://www.mysql.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/></a>
   <a title="node" href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/></a>
   <a title="docker" href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></a>
-  <a title="VirtualBox" href="https://www.virtualbox.org/"><img src="./Taco/virtualbox.png" title="VirtualBox" alt="VirtualBox" width="75" height="35"/></a>
-  <a title="VMWare" href="https://www.vmware.com/"><img src="./Taco/VMWare.png" title="VMWare" alt="VMWare" width="75" height="35"/></a>
-  <a title="Git" href="https://git-scm.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="75" height="35"/></a>
-  
+  <a title="VirtualBox" href="https://www.virtualbox.org/"><img src="./Taco/virtualbox.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/></a>
+  <a title="VMWare" href="https://www.vmware.com/"><img src="./Taco/VMWare.png" title="VMWare" alt="VMWare" width="55" height="55"/></a>
+  <a title="Git" href="https://git-scm.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="70" height="30"/></a>
+</div>  
 
 ## <picture> <img src = "./Taco/Statistics.gif" width = 50px>  </picture>  Github Stats
 
