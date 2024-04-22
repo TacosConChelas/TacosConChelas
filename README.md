@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://img.shields.io/badge/Age-20-red" />
+
+<img src="https://img.shields.io/badge/Age-20-blue" /> <img src="https://img.shields.io/badge/Nickname-TacosConChelas-red" />
 
 <div>
   <img align="left" src="./Taco/Perritos/images.jpg" title="JavaScript" alt="JavaScript" width="335" height="160"/> 
@@ -69,6 +70,7 @@ You can click the Preview link to take a look at your changes.
 ## Other tools
 <div>
   <a title="mysql" href="https://www.mysql.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/></a>
+  <a title="MariaDB" href="https://mariadb.org/"><img src="./Taco/MariaDB.png" title="VMWare" alt="VMWare" width="55" height="55"/></a>
   <a title="node" href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/></a>
   <a title="docker" href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></a>
   <a title="VirtualBox" href="https://www.virtualbox.org/"><img src="./Taco/virtualbox.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/></a>
