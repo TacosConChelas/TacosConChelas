@@ -56,6 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Others
 <div>
+  <a title="Parrot" href="https://www.parrotsec.org/"><img src="./Taco/kalipurple.png" title="Tails" alt="Tails" width="65" height="65"/></a>
+  <a title="Parrot" href="https://www.parrotsec.org/"><img src="./Taco/ParrotSecurityE_Logo.png" title="Tails" alt="Tails" width="65" height="65"/></a>
   <a title="Tails" href="https://tails.net/index.en.html"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/tails-logo-square-notagline.svg" title="Tails" alt="Tails" width="55" height="55"/></a>
   <a title="Arch" href="https://archlinux.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/archlinux-icon.svg" title"Arch" alt="Arch" width="55" height="55"/></a>
 </div>
