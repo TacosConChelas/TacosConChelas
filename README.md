@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 ## <picture> <img src = "./Taco/Statistics.gif" width = 50px>  </picture>  Github Stats
 <!--- https://streak-stats.demolab.com/demo/ -->
 <div align = "center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TacosConChelas&theme=shadow-red&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=496&background=000000&fire=FF0000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TacosConChelas&theme=shadow-red&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000" alt="GitHub Streak" /></a>
 </div>
 
 ---
