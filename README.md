@@ -56,6 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Others
 <div>
+  <a title="KaliPurple" href="https://www.kali.org/"><img src="./Taco/kalipurple.png" title="KaliPurple" alt="KaliPurple" width="65" height="65"/></a>
+  <a title="Parrot" href="https://www.parrotsec.org/"><img src="./Taco/ParrotSecurityE_Logo.png" title="Tails" alt="Tails" width="65" height="65"/></a>
   <a title="Tails" href="https://tails.net/index.en.html"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/tails-logo-square-notagline.svg" title="Tails" alt="Tails" width="55" height="55"/></a>
   <a title="Arch" href="https://archlinux.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/archlinux-icon.svg" title"Arch" alt="Arch" width="55" height="55"/></a>
 </div>
@@ -79,12 +81,10 @@ You can click the Preview link to take a look at your changes.
 </div>  
 
 ## <picture> <img src = "./Taco/Statistics.gif" width = 50px>  </picture>  Github Stats
-
+<!--- https://streak-stats.demolab.com/demo/ -->
+<div align = "center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TacosConChelas&theme=shadow-red&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000" alt="GitHub Streak" /></a>
 </div>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TacosConChelas&theme=onedark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=600&type=png&fire=FF1000&ring=FF0000&background=000000&sideNums=FF0000&currStreakLabel=EBEBEB&currStreakNum=C5C5C5&dates=FFFFFF" alt="GitHub Streak" /></a>
-  
-</p>
 
 ---
 
@@ -106,6 +106,7 @@ You can click the Preview link to take a look at your changes.
   </p>
   
 </div>
+
 
 <!--- snake -->
 <div align="center">
