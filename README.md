@@ -65,8 +65,10 @@ You can click the Preview link to take a look at your changes.
 
 ## <picture><img src = "./Taco/IDEs.gif" width = 50px></picture> IDEs
 <div>
-  <a title="IntelliJ-IDEA" href="https://www.jetbrains.com/es-es/idea/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/></a>
-  <a title="VisualStudioCode" href="https://code.visualstudio.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/></a>
+  <a title="IntelliJ-IDEA" href="https://www.jetbrains.com/es-es/idea/"><img src="./Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/></a>
+  <a title="VisualStudioCode" href="https://code.visualstudio.com/"><img src="./Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/></a>
+  <a title="VisualStudio" href="https://visualstudio.microsoft.com/es/"><img src="./Taco/VisualStudio2022.svg" title="VS" alt="VSC" width="65" height="60"/></a>
+  <a title="Apache" href="https://netbeans.apache.org/front/main/index.html"><img src="./Taco/apacheNetBeans.png" title="VS" alt="VSC" width="50" height="55"/></a>
 </div>
 
 ## Other tools
