@@ -28,6 +28,13 @@ You can click the Preview link to take a look at your changes.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
+## My Achievements
+<div>
+  <img src="./Taco/Certificado_introduction_to-cybersecurity.png" title="CISCO" alt="HTML" width="100" height="100"/>
+  
+</div>
+
+
 ## <picture><img src = "./Taco/CP_PS.gif" width = 50px></picture> Programming languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
