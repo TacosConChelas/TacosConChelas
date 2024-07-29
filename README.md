@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <p>¡Click here!</p>
 <!--- <a title="MyInstagram" href="https://www.instagram.com/tacos_con_chelas/"><img src=".\Taco\Insta.png" alt="Los Tejos" width="35" height="35"/></a> --->
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tacos_con_chelas/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-xel-h%C3%A1-hern%C3%A1ndez-ortega-3b4209297/) [![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TacosConChelas/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tortahack/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-xel-h%C3%A1-hern%C3%A1ndez-ortega-3b4209297/) [![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TacosConChelas/)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&redirect=true)
 
