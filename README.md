@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>
 </div> 
 
 ### Others
@@ -76,18 +77,21 @@ You can click the Preview link to take a look at your changes.
   <a title="IntelliJ-IDEA" href="https://www.jetbrains.com/es-es/idea/"><img src="./Taco/IntelliJ%20Idea.png" title="Intel-IDEA" alt="Intel-IDEA" width="55" height="55"/></a>
   <a title="VisualStudioCode" href="https://code.visualstudio.com/"><img src="./Taco/VSC.png" title="VSC" alt="VSC" width="55" height="55"/></a>
   <a title="VisualStudio" href="https://visualstudio.microsoft.com/es/"><img src="./Taco/VisualStudio2022.svg" title="VS" alt="VSC" width="65" height="60"/></a>
-  <a title="Apache" href="https://netbeans.apache.org/front/main/index.html"><img src="./Taco/apacheNetBeans.png" title="VS" alt="VSC" width="50" height="55"/></a>
+  <a title="Apache" href="https://netbeans.apache.org/front/main/index.html"><img src="./Taco/apacheNetBeans.png" title="Apache" alt="Apache" width="50" height="55"/></a>
+  <a title="PyCharm" href="https://www.jetbrains.com/es-es/pycharm/download/?section=windows"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="55"/></a>
 </div>
 
 ## Other tools
 <div>
   <a title="mysql" href="https://www.mysql.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/></a>
-  <a title="MariaDB" href="https://mariadb.org/"><img src="./Taco/MariaDB.png" title="VMWare" alt="VMWare" width="55" height="55"/></a>
+  <a title="SQLite" href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/></a>
+  <a title="MariaDB" href="https://mariadb.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MaruiDB" alt="MariaDB" width="55" height="55"/></a>
   <a title="node" href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/></a>
   <a title="docker" href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></a>
   <a title="VirtualBox" href="https://www.virtualbox.org/"><img src="./Taco/virtualbox.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/></a>
   <a title="VMWare" href="https://www.vmware.com/"><img src="./Taco/VMWare.png" title="VMWare" alt="VMWare" width="55" height="55"/></a>
   <a title="Git" href="https://git-scm.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="70" height="30"/></a>
+ 
 </div>  
 
 ## <picture> <img src = "./Taco/Statistics.gif" width = 50px>  </picture>  Github Stats
