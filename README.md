@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 ## <picture><img src = "./Taco/about_me.gif" width = 50px></picture> About me
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<img src="https://img.shields.io/badge/Age-20-blue" /> <img src="https://img.shields.io/badge/Nickname-TacosConChelas-red" />
+<img src="https://img.shields.io/badge/Age-21-blue" /> <img src="https://img.shields.io/badge/Nickname-TacosConChelas-red" />
 
 <div>
   <img align="left" src="./Taco/Perritos/images.jpg" title="JavaScript" alt="JavaScript" width="335" height="160"/> 
@@ -23,9 +23,17 @@ You can click the Preview link to take a look at your changes.
   <li>📫 How to reach me you could send me a message to my instagram "Tacos_Con_Chelas".</li>
 </div>
 <p>¡Click here!</p>
-<a title="MyInstagram" href="https://www.instagram.com/tacos_con_chelas/"><img src=".\Taco\Insta.png" alt="Los Tejos" width="35" height="35"/></a>
+<!--- <a title="MyInstagram" href="https://www.instagram.com/tacos_con_chelas/"><img src=".\Taco\Insta.png" alt="Los Tejos" width="35" height="35"/></a> --->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tortahack/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-xel-h%C3%A1-hern%C3%A1ndez-ortega-3b4209297/) [![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TacosConChelas/)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&redirect=true)
+
+## My Achievements
+<div>
+  <img src="./Taco/Certificado_introduction_to-cybersecurity.png" title="CISCO" alt="HTML" width="100" height="100"/>
+  
+</div>
 
 
 ## <picture><img src = "./Taco/CP_PS.gif" width = 50px></picture> Programming languages
@@ -57,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 ### Others
 <div>
   <a title="KaliPurple" href="https://www.kali.org/"><img src="./Taco/kalipurple.png" title="KaliPurple" alt="KaliPurple" width="65" height="65"/></a>
-  <a title="Parrot" href="https://www.parrotsec.org/"><img src="./Taco/ParrotSecurityE_Logo.png" title="Tails" alt="Tails" width="65" height="65"/></a>
+  <a title="Parrot" href="https://www.parrotsec.org/"><img src="./Taco/ParrotSecurityE_Logo.png" title="Parrot" alt="Parrot" width="65" height="65"/></a>
   <a title="Tails" href="https://tails.net/index.en.html"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/tails-logo-square-notagline.svg" title="Tails" alt="Tails" width="55" height="55"/></a>
   <a title="Arch" href="https://archlinux.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/archlinux-icon.svg" title"Arch" alt="Arch" width="55" height="55"/></a>
 </div>
@@ -105,10 +113,12 @@ You can click the Preview link to take a look at your changes.
     <a title="EstructuraDDatosJAVA_UV" href="https://github.com/TacosConChelas/EstructuraDDatosJAVA_UV"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV"></a>
     <a title="Curso-Practico_JavaScript" href="https://github.com/TacosConChelas/Curso-Practico_JavaScript"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript"></a>
     <a title="CursoPLATZI_JavaSE_OObjects" href="https://github.com/TacosConChelas/CursoPLATZI_JavaSE_OObjects"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=CursoPLATZI_JavaSE_OObjects"></a>
+    <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido"></a>
   </p>
   
 </div>
 
+## Proyect repositories
 
 <!--- snake -->
 <div align="center">
