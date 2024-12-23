@@ -5,6 +5,7 @@
 <!---
 TacosConChelas/TacosConChelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 --->
 
 ## <picture><img src = "./Taco/about_me.gif" width = 50px></picture> About me
@@ -32,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ## My Achievements
 <div>
   <img src="./Taco/Certificado_introduction_to-cybersecurity.png" title="CISCO" alt="HTML" width="100" height="100"/>
-  
+  <img src="./Taco/owasp.png" title="ICIP" alt="ICIP" width="80" height="100"/>
 </div>
 
 
