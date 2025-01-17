@@ -33,6 +33,7 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 ## My Achievements
 <div>
   <img src="./Taco/Certificado_introduction_to-cybersecurity.png" title="CISCO" alt="HTML" width="100" height="100"/>
+  <img src="./Taco/networking-basics.png" title="CISCO" alt="HTML" width="100" height="100"/>
   <img src="./Taco/owasp.png" title="ICIP" alt="ICIP" width="80" height="100"/>
 </div>
 
