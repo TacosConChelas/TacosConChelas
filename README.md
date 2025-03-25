@@ -71,6 +71,7 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <a title="Parrot" href="https://www.parrotsec.org/"><img src="./Taco/ParrotSecurityE_Logo.png" title="Parrot" alt="Parrot" width="65" height="65"/></a>
   <a title="Tails" href="https://tails.net/index.en.html"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/tails-logo-square-notagline.svg" title="Tails" alt="Tails" width="55" height="55"/></a>
   <a title="Arch" href="https://archlinux.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/archlinux-icon.svg" title"Arch" alt="Arch" width="55" height="55"/></a>
+  <a title="RasberryPi" href="https://www.raspberrypi.org/"><img src="./Taco/RPI.L.svg" title="RasberryPi" alt="RasberryPi" width="65" height="60"/></a>
 </div>
 
 
