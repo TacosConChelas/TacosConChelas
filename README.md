@@ -93,8 +93,9 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <a title="docker" href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/></a>
   <a title="VirtualBox" href="https://www.virtualbox.org/"><img src="./Taco/virtualbox.png" title="VirtualBox" alt="VirtualBox" width="55" height="55"/></a>
   <a title="VMWare" href="https://www.vmware.com/"><img src="./Taco/VMWare.png" title="VMWare" alt="VMWare" width="55" height="55"/></a>
+  <a title="Spring" href="https://spring.io/"><img src="./Taco/spring-logo.png" title="Git" alt="Git" width="55" height="55"/></a>
   <a title="Git" href="https://git-scm.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="70" height="30"/></a>
-  <a title="Spring" href="https://spring.io/"><img src="./Taco/spring-logo.png" title="Git" alt="Git" width="70" height="30"/></a>
+  
  
 </div>  
 
