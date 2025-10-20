@@ -2,9 +2,9 @@
 
 <!---  <img src="./Taco/saludo-removebg.png" alt="Saludo" width="300" height="160"/> --->
 <pre>
-▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████     
-▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒     
-▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄       
+▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████   >>------> Console.log("Hi Everyone"); jajajj My name is Adriel    
+▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒             (TacosConChelas), I'm from Mexico and I'm 22 years old.
+▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄               Some people call me "Chelas" and others call me "Adri".
 ░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒    
   ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒    
   ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░    
