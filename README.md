@@ -5,11 +5,11 @@
 ▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████   >>-----> Console.log("Hi Everyone"); jajajj My name is Adriel    
 ▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒            (TacosConChelas), I'm from Mexico and I'm 22 years old.
 ▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄              Some people call me "Chelas" and others call me "Adri".
-░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒    
-  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒    
-  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░    
-    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░    
-  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░      
+░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒  >>-----> In addition to being interested in Cybersecurity, 
+  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒           Ethical Haking and Linux.
+  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░  >>-----> I'm currently learning a Java and Python.  
+    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░  >>-----> I'm looking to collaborate on some accounting systems
+  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░             development or application development.
                ░  ░░ ░          ░ ░        ░      
                    ░                              
  ▄████▄   ▒█████   ███▄    █                      
@@ -51,9 +51,9 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 
 <div>
   <img align="left" src="./Taco/Perritos/images.jpg" title="JavaScript" alt="JavaScript" width="335" height="160"/> 
-  <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li>
-  <li>👀 I'm interested in programming but I am still a beginner. In addition to being interested in Cybersecurity.</li>
-  <li>🌱 I'm currently learning a little JS and Java.</li>
+  <!--- <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li> ---->
+  <li>👀 I'm interested in programming but I am still a beginner. In addition to being interested in Cybersecurity, Ethical Haking and Linux</li>
+  <li>🌱 I'm currently learning a Java and Python.</li>
   <li>💞️ I'm looking to collaborate on some game development or application development.</li>
   <li>📫 How to reach me you could send me a message to my instagram "tortahack".</li>
 </div>
