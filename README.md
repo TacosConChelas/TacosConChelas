@@ -3,21 +3,21 @@
 <!---  <img src="./Taco/saludo-removebg.png" alt="Saludo" width="300" height="160"/> --->
 <pre>
 ▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████    >>-----> Console.log("Hi Everyone"); jajajj My name is Adriel    
-▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒             (TacosConChelas), I'm from Mexico and I'm 22 years old.
-▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄               Some people call me "Chelas" and others call me "Adri".
-░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒  
-  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒   >>-----> In addition to being interested in Cybersecurity, 
-  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░            Ethical Haking and Linux.
-    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░  
-  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░     >>-----> I'm currently learning a Java and Python.
-               ░  ░░ ░          ░ ░        ░    
-                   ░                             >>-----> I'm looking to collaborate on some accounting systems
- ▄████▄   ▒█████   ███▄    █                              development or application development.    
-▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █                      
+▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒             (TacosConChelas), I'm from Mexico and I'm 22 years
+▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄               old. Some people call me "Chelas" and others call me 
+░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒            "Adri".
+  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒   
+  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░   >>-----> In addition to being interested in Cybersecurity, 
+    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░            Ethical Haking and Linux.
+  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░     
+               ░  ░░ ░          ░ ░        ░     >>-----> I'm currently learning a Java and Python.
+                   ░                             
+ ▄████▄   ▒█████   ███▄    █                     >>-----> I'm looking to collaborate on some accounting systems
+▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █                              development or application development.
 ▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒                     
 ▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒                     
-▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░                    <----<3 "If you want to beat your budyet, don't be afraid to 
-░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒                             burn your boats"
+▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░                    <----<3 "If you want to beat your budyet, don't be afraid  
+░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒                             to burn your boats"
   ░  ▒     ░ ▒ ▒░ ░ ░░   ░ ▒░                     
 ░        ░ ░ ░ ▒     ░   ░ ░                      
 ░ ░          ░ ░           ░                      
