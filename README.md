@@ -2,22 +2,22 @@
 
 <!---  <img src="./Taco/saludo-removebg.png" alt="Saludo" width="300" height="160"/> --->
 <pre>
-▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████   >>-----> Console.log("Hi Everyone"); jajajj My name is Adriel    
-▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒            (TacosConChelas), I'm from Mexico and I'm 22 years old.
-▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄              Some people call me "Chelas" and others call me "Adri".
+▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████    >>-----> Console.log("Hi Everyone"); jajajj My name is Adriel    
+▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒             (TacosConChelas), I'm from Mexico and I'm 22 years old.
+▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄               Some people call me "Chelas" and others call me "Adri".
 ░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒  
-  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒  >>-----> In addition to being interested in Cybersecurity, 
-  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░           Ethical Haking and Linux.
+  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒   >>-----> In addition to being interested in Cybersecurity, 
+  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░            Ethical Haking and Linux.
     ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░  
-  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░    >>-----> I'm currently learning a Java and Python.
+  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░     >>-----> I'm currently learning a Java and Python.
                ░  ░░ ░          ░ ░        ░    
-                   ░                            >>-----> I'm looking to collaborate on some accounting systems
- ▄████▄   ▒█████   ███▄    █                             development or application development.    
+                   ░                             >>-----> I'm looking to collaborate on some accounting systems
+ ▄████▄   ▒█████   ███▄    █                              development or application development.    
 ▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █                      
 ▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒                     
 ▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒                     
-▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░                     
-░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒                      
+▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░                    <----<3 "If you want to beat your budyet, don't be afraid to 
+░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒                             burn your boats"
   ░  ▒     ░ ▒ ▒░ ░ ░░   ░ ▒░                     
 ░        ░ ░ ░ ▒     ░   ░ ░                      
 ░ ░          ░ ░           ░                      
@@ -35,11 +35,12 @@
 
 </pre>
 
-- I like to learn about new technologies, but I'm just a beginner learning
+
 <!---
 TacosConChelas/TacosConChelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
+- I like to learn about new technologies, but I'm just a beginner learning
 --->
 
 ## <picture><img src = "./Taco/about_me.gif" width = 50px></picture> About me
