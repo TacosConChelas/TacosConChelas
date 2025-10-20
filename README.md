@@ -5,14 +5,14 @@
 ▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████   >>-----> Console.log("Hi Everyone"); jajajj My name is Adriel    
 ▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒            (TacosConChelas), I'm from Mexico and I'm 22 years old.
 ▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄              Some people call me "Chelas" and others call me "Adri".
-░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒  >>-----> In addition to being interested in Cybersecurity, 
-  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒           Ethical Haking and Linux.
-  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░  >>-----> I'm currently learning a Java and Python.  
-    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░  >>-----> I'm looking to collaborate on some accounting systems
-  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░             development or application development.
-               ░  ░░ ░          ░ ░        ░      
-                   ░                              
- ▄████▄   ▒█████   ███▄    █                      
+░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒  
+  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒  >>-----> In addition to being interested in Cybersecurity, 
+  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░           Ethical Haking and Linux.
+    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░  
+  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░    >>-----> I'm currently learning a Java and Python.
+               ░  ░░ ░          ░ ░        ░    
+                   ░                            >>-----> I'm looking to collaborate on some accounting systems
+ ▄████▄   ▒█████   ███▄    █                             development or application development.    
 ▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █                      
 ▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒                     
 ▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒                     
