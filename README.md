@@ -1,27 +1,28 @@
-# TacosConChelas (Adriel)
+# <picture><img src = "./Taco/about_me.gif" width = 50px></picture> TacosConChelas (Adriel)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!---  <img src="./Taco/saludo-removebg.png" alt="Saludo" width="300" height="160"/> --->
 <pre>
-▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████    >>-----> Console.log("Hi Everyone"); jajajj My name is
-▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒             Adriel (TacosConChelas), I'm from Mexico and I'm 
-▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄               22 years old. Some people call me "Chelas" and 
-░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒            others call me "Adri".
-  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒   
-  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░   >>-----> In addition to being interested in Cybersecurity,
-    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░            Ethical Haking and Linux.
-  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░     
-               ░  ░░ ░          ░ ░        ░     >>-----> I'm currently learning a Java and Python.
+▄▄▄█████▓ ▄▄▄       ▄████▄   ▒█████    ██████     >>----> Console.log("Hi Everyone"); jajajj 
+▓  ██▒ ▓▒▒████▄    ▒██▀ ▀█  ▒██▒  ██▒▒██    ▒             My name isAdriel (TacosConChelas), 
+▒ ▓██░ ▒░▒██  ▀█▄  ▒▓█    ▄ ▒██░  ██▒░ ▓██▄               I'm from Mexico and I'm 22 years 
+░ ▓██▓ ░ ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▒██   ██░  ▒   ██▒            old. Some people call me "Chelas" 
+  ▒██▒ ░  ▓█   ▓██▒▒ ▓███▀ ░░ ████▓▒░▒██████▒▒            and others call me "Adri".
+  ▒ ░░    ▒▒   ▓▒█░░ ░▒ ▒  ░░ ▒░▒░▒░ ▒ ▒▓▒ ▒ ░   
+    ░      ▒   ▒▒ ░  ░  ▒     ░ ▒ ▒░ ░ ░▒  ░ ░    >-----> In addition to being interested in 
+  ░        ░   ▒   ░        ░ ░ ░ ▒  ░  ░  ░              Cybersecurity, Ethical Haking and 
+               ░  ░░ ░          ░ ░        ░              Linux.
                    ░                             
- ▄████▄   ▒█████   ███▄    █                     >>-----> I'm looking to collaborate on some accounting 
-▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █                              systems development or application development.
-▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒                     
-▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒                     
-▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░                    <----<3 "If you want to beat your budyet, don't be afraid  
-░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒                             to burn your boats"
-  ░  ▒     ░ ▒ ▒░ ░ ░░   ░ ▒░                     
-░        ░ ░ ░ ▒     ░   ░ ░                      
-░ ░          ░ ░           ░                      
-░                                                 
+ ▄████▄   ▒█████   ███▄    █                      >>----> I'm currently learning a Java and 
+▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █                              Python.
+▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒                    
+▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒                     >>----> I'm looking to collaborate on some 
+▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░                             accounting systems development or 
+░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒                              application development. 
+  ░  ▒     ░ ▒ ▒░ ░ ░░   ░ ▒░                    
+░        ░ ░ ░ ▒     ░   ░ ░                     
+░ ░          ░ ░           ░                      <---<3 "If you want to beat your budyet, 
+░                                                         don't be afraid to burn your boats" 
  ▄████▄   ██░ ██ ▓█████  ██▓    ▄▄▄        ██████ 
 ▒██▀ ▀█  ▓██░ ██▒▓█   ▀ ▓██▒   ▒████▄    ▒██    ▒ 
 ▒▓█    ▄ ▒██▀▀██░▒███   ▒██░   ▒██  ▀█▄  ░ ▓██▄   
@@ -43,20 +44,24 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 - I like to learn about new technologies, but I'm just a beginner learning
 --->
 
-## <picture><img src = "./Taco/about_me.gif" width = 50px></picture> About me
+<!---  ##  About me --->
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 <img src="https://img.shields.io/badge/Age-21-blue" /> <img src="https://img.shields.io/badge/Nickname-TacosConChelas-red" />
 
 <div>
+  
+  <!--- 
   <img align="left" src="./Taco/Perritos/images.jpg" title="JavaScript" alt="JavaScript" width="335" height="160"/> 
-  <!--- <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li> ---->
+  <li>👋 Console.log("Hi Everyone"); jajajj My name is Adriel (TacosConChelas), I'm from Mexico and I'm 20 years old. Some people call me "Chelas" and others call me "Adri".</li> 
   <li>👀 I'm interested in programming but I am still a beginner. In addition to being interested in Cybersecurity, Ethical Haking and Linux</li>
   <li>🌱 I'm currently learning a Java and Python.</li>
   <li>💞️ I'm looking to collaborate on some game development or application development.</li>
   <li>📫 How to reach me you could send me a message to my instagram "tortahack".</li>
+  ---->
+  
 </div>
 <p>¡Click here!</p>
 <!--- <a title="MyInstagram" href="https://www.instagram.com/tacos_con_chelas/"><img src=".\Taco\Insta.png" alt="Los Tejos" width="35" height="35"/></a> --->
