@@ -81,7 +81,7 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 </div>
 
 ### CTFs
-<li>16th place in CTF MetaRed Mexico Anuies-TIC 2025</li>
+<li><a href="https://ctfd.anuies.mx/">16th place in CTF MetaRed Mexico Anuies-TIC 2025</a></li>
 
 
 ## <picture><img src = "./Taco/CP_PS.gif" width = 50px></picture> Programming languages
