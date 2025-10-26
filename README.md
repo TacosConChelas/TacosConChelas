@@ -77,7 +77,11 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <img src="./Taco/Certificado_introduction_to-cybersecurity.png" title="CISCO" alt="HTML" width="100" height="100"/>
   <img src="./Taco/networking-basics.png" title="CISCO" alt="HTML" width="100" height="100"/>
   <img src="./Taco/owasp.png" title="ICIP" alt="ICIP" width="80" height="100"/>
+  
 </div>
+
+### CTFs
+<li>16th place in CTF MetaRed Mexico Anuies-TIC 2025</li>
 
 
 ## <picture><img src = "./Taco/CP_PS.gif" width = 50px></picture> Programming languages
