@@ -165,10 +165,22 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
  <!--   https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true   --->
 <div align="center">
   <p>
-    <a title="EstructuraDDatosJAVA_UV" href="https://github.com/TacosConChelas/EstructuraDDatosJAVA_UV"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV"></a>
-    <a title="Curso-Practico_JavaScript" href="https://github.com/TacosConChelas/Curso-Practico_JavaScript"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript"></a>
-    <a title="CursoPLATZI_JavaSE_OObjects" href="https://github.com/TacosConChelas/CursoPLATZI_JavaSE_OObjects"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=CursoPLATZI_JavaSE_OObjects"></a>
-    <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido"></a>
+    <!--- 1 -->
+    <a title="EstructuraDDatosJAVA_UV" href="https://github.com/TacosConChelas/EstructuraDDatosJAVA_UV">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV">
+    </a>
+    <!--- 2 -->
+    <a title="Curso-Practico_JavaScript" href="https://github.com/TacosConChelas/Curso-Practico_JavaScript">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript">
+    </a>
+    <!--- 3 -->
+    <a title="CursoPLATZI_JavaSE_OObjects" href="https://github.com/TacosConChelas/CursoPLATZI_JavaSE_OObjects">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=CursoPLATZI_JavaSE_OObjects">
+    </a>
+    <!--- 4 -->
+    <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido">
+    </a>
   </p>
   
 </div>
