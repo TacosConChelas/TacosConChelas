@@ -174,9 +174,7 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
       <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript">
     </a>
     <!--- 3 -->
-    <a title="LearningPython" href="https://github.com/TacosConChelas/LearningPython">
-      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=LearningPython">
-    </a>
+    
     <!--- 4 -->
     <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido">
       <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido">
