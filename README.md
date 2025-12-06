@@ -77,7 +77,11 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <img src="./Taco/Certificado_introduction_to-cybersecurity.png" title="CISCO" alt="HTML" width="100" height="100"/>
   <img src="./Taco/networking-basics.png" title="CISCO" alt="HTML" width="100" height="100"/>
   <img src="./Taco/owasp.png" title="ICIP" alt="ICIP" width="80" height="100"/>
+  
 </div>
+
+### CTFs
+<li><a href="https://ctfd.anuies.mx/">16th place in CTF MetaRed Mexico Anuies-TIC 2025</a></li>
 
 
 ## <picture><img src = "./Taco/CP_PS.gif" width = 50px></picture> Programming languages
@@ -161,10 +165,22 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
  <!--   https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true   --->
 <div align="center">
   <p>
-    <a title="EstructuraDDatosJAVA_UV" href="https://github.com/TacosConChelas/EstructuraDDatosJAVA_UV"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV"></a>
-    <a title="Curso-Practico_JavaScript" href="https://github.com/TacosConChelas/Curso-Practico_JavaScript"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript"></a>
-    <a title="CursoPLATZI_JavaSE_OObjects" href="https://github.com/TacosConChelas/CursoPLATZI_JavaSE_OObjects"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=CursoPLATZI_JavaSE_OObjects"></a>
-    <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido"><img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido"></a>
+    <!--- 1 -->
+    <a title="EstructuraDDatosJAVA_UV" href="https://github.com/TacosConChelas/EstructuraDDatosJAVA_UV">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV">
+    </a>
+    <!--- 2 -->
+    <a title="Curso-Practico_JavaScript" href="https://github.com/TacosConChelas/Curso-Practico_JavaScript">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript">
+    </a>
+    <!--- 3 -->
+    <a title="LearningPython" href="https://github.com/TacosConChelas/LearningPython">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=LearningPython">
+    </a>
+    <!--- 4 -->
+    <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido">
+      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido">
+    </a>
   </p>
   
 </div>
