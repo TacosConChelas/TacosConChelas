@@ -156,8 +156,8 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 <p align="center">
   <!--    https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=tru --->
  
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true">
-  <img width="360" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacosConChelas&size_weight=0.15&count_weight=0.5&layout=compact&theme=shadow_red">
+  <img width="400" height="200" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true&cache_seconds=86400">
+  <img width="360" height="200" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/top-langs/?username=TacosConChelas&size_weight=0.15&count_weight=0.5&layout=compact&theme=shadow_red&cache_seconds=86400">
   
 </p>
 
@@ -167,19 +167,19 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <p>
     <!--- 1 -->
     <a title="EstructuraDDatosJAVA_UV" href="https://github.com/TacosConChelas/EstructuraDDatosJAVA_UV">
-      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV">
+      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV&cache_seconds=86400">
     </a>
     <!--- 2 -->
     <a title="Curso-Practico_JavaScript" href="https://github.com/TacosConChelas/Curso-Practico_JavaScript">
-      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript">
+      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript&cache_seconds=86400">
     </a>
     <!--- 3 -->
     <a title="LearningPython" href="https://github.com/TacosConChelas/LearningPython">
-      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=LearningPython">
+      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=LearningPython&cache_seconds=86400">
     </a>
     <!--- 4 -->
     <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido">
-      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido">
+      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido&cache_seconds=86400">
     </a>
   </p>
   
