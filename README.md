@@ -166,16 +166,16 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 <div align="center">
   <p>
     <!--- 1 -->
-    <a title="EstructuraDDatosJAVA_UV" href="https://github.com/TacosConChelas/EstructuraDDatosJAVA_UV">
-      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=EstructuraDDatosJAVA_UV&cache_seconds=86400">
+    <a title="SOC-AI" href="https://github.com/TacosConChelas/SOC-AI">
+      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=SOC-AI&cache_seconds=86400">
     </a>
     <!--- 2 -->
-    <a title="Curso-Practico_JavaScript" href="https://github.com/TacosConChelas/Curso-Practico_JavaScript">
-      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=Curso-Practico_JavaScript&cache_seconds=86400">
+    <a title="AI_Data_Analyst_Agent" href="https://github.com/TacosConChelas/AI_Data_Analyst_Agent">
+      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=AI_Data_Analyst_Agent&cache_seconds=86400">
     </a>
     <!--- 3 -->
-    <a title="LearningPython" href="https://github.com/TacosConChelas/LearningPython">
-      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=LearningPython&cache_seconds=86400">
+    <a title="AI_Browser_Agent" href="https://github.com/TacosConChelas/AI_Browser_Agent">
+      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=AI_Browser_Agent&cache_seconds=86400">
     </a>
     <!--- 4 -->
     <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido">
@@ -185,9 +185,9 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   
 </div>
 
-## Proyect repositories
 
-<!--- snake -->
+
+<!--- snake ## Proyect repositories -->
 <div align="center">
   <img  src="./Taco/grid-snake.svg"
        alt="snake" /></a>
