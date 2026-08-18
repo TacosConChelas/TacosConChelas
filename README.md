@@ -70,7 +70,9 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tortahack/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-xel-h%C3%A1-hern%C3%A1ndez-ortega-3b4209297/) [![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TacosConChelas/)
 
+<!--
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff0000)](https://spotify-github-profile.kittinanx.com/api/view?uid=313nnexzwdmm5amccfrmqttpphpa&redirect=true)
+-->
 
 ## My Achievements
 <div>
@@ -156,35 +158,25 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 <p align="center">
   <!--    https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=tru --->
  
-  <img width="400" height="200" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true&cache_seconds=86400">
+  <!--<img width="400" height="200" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true&cache_seconds=86400"> -->
   <img width="360" height="200" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/top-langs/?username=TacosConChelas&size_weight=0.15&count_weight=0.5&layout=compact&theme=shadow_red&cache_seconds=86400">
   
 </p>
-
+<!----
 ## Favorite repositories
  <!--   https://github-readme-stats.vercel.app/api?username=TacosConChelas&theme=shadow_red&show_icons=true   --->
-<div align="center">
-  <p>
-    <!--- 1 -->
-    <a title="SOC-AI" href="https://github.com/TacosConChelas/SOC-AI">
-      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=SOC-AI&cache_seconds=86400">
-    </a>
-    <!--- 2 -->
-    <a title="AI_Data_Analyst_Agent" href="https://github.com/TacosConChelas/AI_Data_Analyst_Agent">
-      <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=AI_Data_Analyst_Agent&cache_seconds=86400">
-    </a>
-    <!--- 3 -->
+ <!---- <div align="center">
+  <p> 
+     <a title="SOC-AI" href="https://github.com/TacosConChelas/SOC-AI"> <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=SOC-AI&cache_seconds=86400"></a>
+    <a title="AI_Data_Analyst_Agent" href="https://github.com/TacosConChelas/AI_Data_Analyst_Agent"> <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=AI_Data_Analyst_Agent&cache_seconds=86400"> </a>
     <a title="AI_Browser_Agent" href="https://github.com/TacosConChelas/AI_Browser_Agent">
       <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=AI_Browser_Agent&cache_seconds=86400">
     </a>
-    <!--- 4 -->
     <a title="RepoCompartido" href="https://github.com/TacosConChelas/RepoCompartido">
       <img width="400" height="150" src="https://github-readme-stats-tacos-con-chelas-projects.vercel.app/api/pin?username=TacosConChelas&theme=shadow_red&&show_icons=true&repo=RepoCompartido&cache_seconds=86400">
     </a>
   </p>
-  
-</div>
-
+</div> -->
 
 
 <!--- snake ## Proyect repositories -->
