@@ -103,14 +103,16 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
 
 ### Most used OS
 <div>
+  <a title="NixOS" href="https://nixos.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/NixOS.svg" title="NixOS" alt="NixOS" width="55" height="55"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Win11" alt="Win11" width="55" height="55"/> 
   <a title="Kali" href="https://www.kali.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/pngwing.com.png" title="Kali" alt="Kali" width="55" height="55"/></a>
-  <a title="Ubuntu" href="https://ubuntu.com/download"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/></a>
+  
 </div>
 
-### FEDORA lover ❤️
+### FEDORA and NixOS lover ❤️
 <div>
   <a title="Fedora" href="https://fedoraproject.org/es/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Fedora.png" title="Fedora" alt="Fedora" width="55" height="55"/></a>
+  <a title="NixOS" href="https://nixos.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/NixOS.svg" title="NixOS" alt="NixOS" width="55" height="55"/></a>
 </div>
 
 ### Others
@@ -120,6 +122,8 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <a title="Tails" href="https://tails.net/index.en.html"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/tails-logo-square-notagline.svg" title="Tails" alt="Tails" width="55" height="55"/></a>
   <a title="Arch" href="https://archlinux.org/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/archlinux-icon.svg" title"Arch" alt="Arch" width="55" height="55"/></a>
   <a title="RasberryPi" href="https://www.raspberrypi.org/"><img src="./Taco/RPI.L.svg" title="RasberryPi" alt="RasberryPi" width="65" height="60"/></a>
+  <a title="Gentoo" href="https://www.gentoo.org/"><img src="./Taco/Gentoo.svg" title="Gentoo" alt="Gentoo" width="65" height="60"/></a>
+  <a title="Ubuntu" href="https://ubuntu.com/download"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/></a>
 </div>
 
 
@@ -132,7 +136,7 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <a title="PyCharm" href="https://www.jetbrains.com/es-es/pycharm/download/?section=windows"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/></a>
 </div>
 
-## Other tools
+## Tools
 <div>
   <a title="mysql" href="https://www.mysql.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/MySQL.png" title="MySQL" alt="MySQL" width="55" height="55"/></a>
   <a title="SQLite" href="https://www.sqlite.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/></a>
@@ -143,15 +147,23 @@ https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/owasp.png
   <a title="VMWare" href="https://www.vmware.com/"><img src="./Taco/VMWare.png" title="VMWare" alt="VMWare" width="55" height="55"/></a>
   <a title="Spring" href="https://spring.io/"><img src="./Taco/spring-logo.png" title="Git" alt="Git" width="55" height="55"/></a>
   <a title="Git" href="https://git-scm.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Git.png" title="Git" alt="Git" width="70" height="30"/></a>
+  <a title="Grafana" href="https://grafana.com/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Grafana.svg" title="Grafana" alt="Grafana" width="70" height="50"/></a>
+  <a title="Terraform" href="https://developer.hashicorp.com/terraform"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/HashiCorp Terraform.svg" title="Terraform" alt="Terraform" width="60" height="50"/></a>
+  <a title="Redis" href="https://redis.io/"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/Redis.svg" title="Redis" alt="Redis" width="60" height="50"/></a>
   
- 
 </div>  
+
+## Plaftorms
+<div>
+  <a title="AWS" href="https://aws.amazon.com"><img src="https://github.com/TacosConChelas/TacosConChelas/blob/main/Taco/AWS.svg" title="AWS" alt="AWS" width="70" height="40"/></a>
+</div>
+
 
 ## <picture> <img src = "./Taco/Statistics.gif" width = 50px>  </picture>  Github Stats
 <!--- https://streak-stats.demolab.com/demo/ -->
-<div align = "center">
+<!--- <div align = "center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TacosConChelas&theme=shadow-red&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=FF0000" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
 ---
 
